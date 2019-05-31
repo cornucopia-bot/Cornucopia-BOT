@@ -2,7 +2,7 @@ const config = {
   "ownerID": "304293300976746496",
   "admins": [],
   "support": [],
-  "token": "NTgzODYxNzc4MDQ0MTU3OTYy.XPCiGQ.RmVEBQF3sT8W95CDs_g8kPBN3xs",
+  "token": "",
   "dashboard" : {
     "oauthSecret": "W9tQFLRhugk0xJh6b7miVXGfzHFjkaiN",
     "callbackURL": `http://not setup/callback`,
